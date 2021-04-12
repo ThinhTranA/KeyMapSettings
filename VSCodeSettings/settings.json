@@ -30,12 +30,5 @@
   "csharpextensions.useThisForCtorAssignments": false,
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "vim.insertModeKeyBindings": [
-    //Map enter Normal mode in vim from Esc to k & j
-    {
-      "before": ["k", "j"],
-      "after": ["<Esc>"]
-    }
-  ]
+  }
 }
